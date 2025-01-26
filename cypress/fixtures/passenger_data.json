@@ -1,11 +1,11 @@
 {
-  "TRAIN_NO": "22475",
+  "TRAIN_NO": "14708",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "22/01/2025",
-  "SOURCE_STATION": "BKN",
-  "BOARDING_STATION": null,
-  "DESTINATION_STATION": "ST",
-  "TATKAL": true,
+  "TRAVEL_DATE": "01/03/2025",
+  "SOURCE_STATION": "PLG",
+  "BOARDING_STATION": "UDN",
+  "DESTINATION_STATION": "MTD",
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
@@ -17,9 +17,9 @@
       "FOOD": "No Food"
     },
     {
-      "NAME": "Riya Lunia",
-      "AGE": 28,
-      "GENDER": "Female",
+      "NAME": "Lalit Lunia",
+      "AGE": 53,
+      "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
